@@ -23,14 +23,14 @@ A small Python script that sorts files in the current working directory into cat
 Run the script from the directory you want to organize:
 
 ```powershell
-E:/Python/python3.14t.exe d:\Python\FileOrganizer.py
+E:/Python/python3.14t.exe D:\path\to\FileOrganizer.py
 ```
 
 Or, change to your target folder first:
 
 ```powershell
 cd C:\path\to\folder
-E:/Python/python3.14t.exe d:\Python\FileOrganizer.py
+E:/Python/python3.14t.exe D:\path\to\FileOrganizer.py
 ```
 
 ## Notes
